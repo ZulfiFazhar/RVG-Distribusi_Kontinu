@@ -9,7 +9,7 @@ Program ini melakukan simulasi variable acak 𝑥 **Distribusi Kontinu** menggun
 
 Program ini dapat diakses secara online melalui link dibawah ini
 
-<a href="https://google.com">**Streamlit RVG**</a>
+<a href="https://rvg-distribusi-kontinu.streamlit.app/">**Streamlit RVG**</a>
 
 ## Menjalankan program secara local
 
