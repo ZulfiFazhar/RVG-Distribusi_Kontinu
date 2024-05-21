@@ -46,11 +46,18 @@ st.write(r"""
         - $m$ = modulus (modulo)
         - **Kunci pembangkit adalah $Z_0$ yang disebut seed.**
         """)
-st.write(r"Bilangan acak seragam (Distribusi Uniform) : $U_i = Z_i / m$")
+st.write(r"Bilangan acak seragam (Distribusi Uniform) : $U_i = \frac{Z_i}{m}$")
 
 st.divider()
 
 st.write("### Random Variate dengan Distribusi Kontinu")
+st.write(r"""
+         Fungsi PDF (Probability Density Function) :
+         $f(x) = \frac{2}{3} x^{3}$
+         
+         Fungsi CDF (Cumulative Density Function) :
+         $F(x) = \frac{1}{6} x^{4}$
+         """)
 st.write(r"""
          Algoritma untuk memperoleh Variate acak yang berdistribusi kontinu adalah sebagai berikut:
          1. Bangkitkan bilangan acak $U_i(0,1)$
