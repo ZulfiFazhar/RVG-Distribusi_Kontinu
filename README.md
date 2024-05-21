@@ -16,7 +16,7 @@ Program ini dapat diakses secara online melalui link dibawah ini
 1. Install dependencies
 
    ```bash
-   pip install -r recuirements.txt
+   pip install -r requirements.txt
    ```
 
 2. Jalankan streamlit
